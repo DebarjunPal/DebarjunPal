@@ -5,4 +5,4 @@ I am Debarjun Pal from India. I am aspiring to be Full Stack Web Developer.
 - 🔭 I’m currently working on developing my new projects and contributing to various open source programs.
 - 🌱 I’m currently learning Javascript, Git, Github & Web3
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 Connect with me: Twitter --> @DebarjunTwts | Gmail  --> debarjunpal134@gmail.com
+- 📫 Connect with me on Twitter --> @DebarjunTwts

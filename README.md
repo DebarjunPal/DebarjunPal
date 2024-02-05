@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debarjunpal&show_icons=true&locale=en" alt="debarjunpal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debarjunpal&" alt="debarjunpal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DebarjunPal&" alt="debarjunpal" /></p>

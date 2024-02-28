@@ -1,7 +1,5 @@
-[![MasterHead](https://media.istockphoto.com/id/1423342230/vector/web-development-related-vector-banner-design-concept-modern-line-style-with-icons.jpg?b=1&s=612x612&w=0&k=20&c=QDC5rI_BkcNyOMDmvFP3NIeZ6sjFLQRUpXS23mHk5tA=)](https://DebarjunPal.io)
 <h1 align="center">Hi 👋, I'm Debarjun Pal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align='right' alt='coder' width='400' src='https://img.freepik.com/premium-vector/utch-man-viewed-from-side-behind-laptop-02-copy-5-01_961307-1185.jpg'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debarjunpal&label=Profile%20views&color=0e75b6&style=flat" alt="debarjunpal" /> </p>
 

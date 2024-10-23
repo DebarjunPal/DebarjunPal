@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **developing new projects and contributing to various open source programs.**
 
-- 🌱 I’m currently learning **MERN Stack and WEB3**
+- 🌱 I’m currently learning **AI, ML & WEB3**
 
 - 👯 I’m looking to collaborate on **open source projects**
 

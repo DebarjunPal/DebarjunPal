@@ -32,7 +32,7 @@ Prediction oriented system built using TensorFlow and Python. A system where use
 plant leaves and receive a predicted disease from the model.</p>  
 
 <h3 align="left">Interests: </h3>
-<p align="left">My subjects of interest are in the subjects: Database Management System, Computer Organization and Architecture, Data Structures and Algorithms, 
+<p align="left">My subjects of interest are: Database Management System, Computer Organization and Architecture, Data Structures and Algorithms, 
 Operating System.</p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Debarjun Pal</h1>
-<h3 align="center">A passionate MERN Stack and AI-ML Developer.</h3>
+
+## 🚀 Full-Stack & AI/ML Developer
+
+<h3 align="center">Passionate about building scalable web applications with the MERN stack and exploring the frontiers of AI/ML.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debarjunpal&label=Profile%20views&color=0e75b6&style=flat" alt="debarjunpal" /> </p>
 
+## 👨‍💻 About Me:
 
-- 🔭 I’m currently working on **Reseach based projects in the field of Machine Learning and Deep Learning.**
+* 🔭 Currently engaged in **ML/DL research projects exploring computer vision, NLP, and predictive modeling.**
+  
+* 🌱 Expanding my knowledge in **Transformer architectures, Reinforcement Learning, and AI model deployment.**
+  
+* 👯 Open to collaborating on **MERN stack projects with AI integration, data visualization, and scalable architectures.**
+  
+* 🎯 Goal: **Contributing to open-source AI tools and building intelligent web applications**
 
-- 🌱 I’m currently learning about **Artificial Intelligence, Machine Learning and Deep Learning**
-
-- 👯 I’m looking to collaborate on **Full stack software projects.**
-
-- 📫 Reach out to me **debarjunpal134@gmail.com**
+* 📫 Reach out to me **debarjunpal134@gmail.com**
 
 ## 🛠️ Skills
 

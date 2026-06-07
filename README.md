@@ -16,7 +16,7 @@
   
 * 🎯 Goal: **Contributing to open-source AI tools and building intelligent web applications**
 
-* 📫 Reach out to me **debarjunpal134@gmail.com**
+* 📫 Reach out to me **debarjunpal.tech@gmail.com**
 
 ## 🛠️ Skills
 

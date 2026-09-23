@@ -32,7 +32,7 @@
 
 <br/>
  
-> 📧 **Email:** [debarjunpal.tech@gmail.com](mailto:debarjunpal.tech@gmail.com)
+
 
 ## 🛠️ Skills
 
